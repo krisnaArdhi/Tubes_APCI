@@ -22,7 +22,7 @@ choose a representation in your group to submit the documents (doc and slide)
 * Fork this repository to your account. [see help](https://help.github.com/articles/fork-a-repo/)
 * Clone the repositoy to your personal computer [see help] (https://help.github.com/articles/cloning-a-repository/)
 * Find the [Tubes_APCI] repo directory in your computer
-* add copy paste the document and slide into the directory [see help] (https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/)
+* copy paste the document and slide into the directory [see help] (https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/)
   * open terminal/git shell, go to the repo directory
   * write command ` git add . `
 * commit the new files
